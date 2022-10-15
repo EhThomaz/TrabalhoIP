@@ -1,5 +1,5 @@
 public class TrabalhoIP {
-public class static void main(String[] args) {
+public static void main(String[] args) {
     Oi, tudo bem!
         Sim, já consegui entrar aqui
         

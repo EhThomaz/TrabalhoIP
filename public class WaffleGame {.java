@@ -4,6 +4,6 @@ public class WaffleGame {
       //codigo que implementa determinada tarefa
       int num
       num = 2442
-    }
-     //definição de funções auxiliares
+    }wedrwesf
+     //definição de funções auxiliarees
 }

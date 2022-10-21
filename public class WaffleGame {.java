@@ -3,7 +3,7 @@ public class WaffleGame {
     public static void main(String[] args) {
       //codigo que implementa determinada tarefa
       int num
-      num = 2442
-    }wedrwesf
+      num = 244
+    }
      //definição de funções auxiliarees
 }
